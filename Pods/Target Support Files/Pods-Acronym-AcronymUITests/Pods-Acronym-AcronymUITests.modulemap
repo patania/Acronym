@@ -1,0 +1,6 @@
+framework module Pods_Acronym_AcronymUITests {
+  umbrella header "Pods-Acronym-AcronymUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
